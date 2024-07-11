@@ -1,0 +1,16 @@
+--2024-07-11 23:53:57--  https://cdn.discordapp.com/attachments/233640955398324236/1261055959598501908/chinese-friends-meme.mp3?ex=66919162&is=66903fe2&hm=34b25e250e0026a586ea53af7858fa0eff037cb229d69f298ffc420ec250799d&
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving cdn.discordapp.com (cdn.discordapp.com)... 162.159.134.233, 162.159.135.233, 162.159.130.233, ...
+Connecting to cdn.discordapp.com (cdn.discordapp.com)|162.159.134.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216543 (211K) [audio/mpeg]
+Saving to: 'chinese-friends-meme.mp3?ex=66919162&is=66903fe2&hm=34b25e250e0026a586ea53af7858fa0eff037cb229d69f298ffc420ec250799d&'
+
+     0K .......... .......... .......... .......... .......... 23% 11.9M 0s
+    50K .......... .......... .......... .......... .......... 47% 10.7M 0s
+   100K .......... .......... .......... .......... .......... 70% 11.4M 0s
+   150K .......... .......... .......... .......... .......... 94% 10.6M 0s
+   200K .......... .                                          100% 18.9M=0.02s
+
+2024-07-11 23:53:57 (11.4 MB/s) - 'chinese-friends-meme.mp3?ex=66919162&is=66903fe2&hm=34b25e250e0026a586ea53af7858fa0eff037cb229d69f298ffc420ec250799d&' saved [216543/216543]
+
